@@ -3,6 +3,7 @@
 > 漫画下载器
 
 ![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/nusr/ComicHub.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e069a8243790426e8f2c5f6d0b35d210)](https://app.codacy.com/app/nusr/ComicHub?utm_source=github.com&utm_medium=referral&utm_content=nusr/ComicHub&utm_campaign=Badge_Grade_Dashboard)
 [![build status](https://img.shields.io/travis/nusr/ComicHub/master.svg?style=flat-square)](https://travis-ci.org/nusr/ComicHub)
 [![Test coverage](https://img.shields.io/codecov/c/github/nusr/ComicHub.svg?style=flat-square)](https://codecov.io/github/nusr/ComicHub?branch=master)
 [![Known Vulnerabilities](https://snyk.io/test/github/nusr/ComicHub/badge.svg?targetFile=package.json)](https://snyk.io/test/github/nusr/ComicHub?targetFile=package.json)
